@@ -1,6 +1,6 @@
 # ytdlp-turbo
 
-`ytdlp-turbo` is a command-line tool for downloading videos and playlists.
+`ytdlp-turbo` is a command-line tool for downloading videos and multithreading the download of playlists.
 
 ## Features
 
