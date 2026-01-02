@@ -9,7 +9,7 @@
 
 ## Requirements
 
-- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) (ensure it is installed and accessible via the command line)(install via pip bcz I did it so)
+- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) (ensure it is installed and accessible via the command line)(install via pip recommended)
 - [`ffmpeg`](https://www.ffmpeg.org/download.html)(to mix video+audio & subtitles)
 
 ## Examples
